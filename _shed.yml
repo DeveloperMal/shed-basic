@@ -1,0 +1,9 @@
+name: basic
+description: A simple python script
+author: Malcolm
+version: 0.1.0
+
+vars:
+  projectname:
+    desc: Name of the project
+    default: basicproject
